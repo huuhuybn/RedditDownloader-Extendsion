@@ -11,14 +11,14 @@
       "service_worker": "background.js"
    },
    "description": "Build an Extension to download Reddit video",
-   "host_permissions": [ "https://www.tiktok.com/*" ],
+   "host_permissions": [ "https://www.reddit.com/*" ],
    "icons": {
       "128": "icons/128tt.png",
       "16": "icons/16tt.png",
       "48": "icons/48tt.png"
    },
    "manifest_version": 3,
-   "name": "Tiktok Video Downloader",
+   "name": "Reddit Video Downloader",
    "permissions": [ "tabs" ],
    "update_url": "https://clients2.google.com/service/update2/crx",
    "version": "1.2"
